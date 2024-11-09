@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Stats</p>
+<p align="left"><strong>Stats</strong></p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Techs</p>
+<p align="left"><strong>Techs</strong></p>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">Tools</p>
+<p align="left"><strong>Tools</strong></p>
 
 ###
 
